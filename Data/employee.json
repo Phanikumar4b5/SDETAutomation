@@ -1,0 +1,15 @@
+{
+"firstName":"John",
+"lastName":"kennedy",
+"address":[{
+"street":"abc",
+"city":"Delhi",
+"state":"TL"
+},
+{
+"street":"xxx",
+"city":"Vijayawada",
+"state":"TL"
+}
+]
+}
